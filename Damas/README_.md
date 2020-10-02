@@ -12,10 +12,10 @@ python main.py
 
 ## Instrucciones 📋
 
-_Ingresa la dificultad del juego_ ⚙️ \
+_**Ingresa la dificultad del juego**_ ⚙️ \
  Dificultad(MinMax depth): _(colocar 2 o 4)_
 
-_Se imprimirá el tablero_ \
+_**Se imprimirá el tablero**_ \
   0 1 2 3 4 5 6 7   ⬅️ Pos x
 0 - X - X - X - X 
 
@@ -35,14 +35,14 @@ _Se imprimirá el tablero_ \
 ⬆️ \
 Pos y
 
-_Colocaras tu jugada_
+_**Colocaras tu jugada**_
 
-Humano 
-Pos x: _coloca la coordenada x de la ficha que desees mover_ \
-Pos y: _coloca la coordenada y de la ficha que desees mover_ \
-Movimiento 0(↑←), 1(↑→): _coloca la direccion en la que moveras la ficha_ \
-			 _0 mover hacia la izquierda_
-			 _1 mover hacia la derecha_
+Humano \ 
+**Pos x**: _coloca la coordenada x de la ficha que desees mover_ \
+**Pos y**: _coloca la coordenada y de la ficha que desees mover_ \
+**Movimiento 0(↑←), 1(↑→)**: _coloca la direccion en la que moveras la ficha_ \
+			     - _0 mover hacia la izquierda_
+			     - _1 mover hacia la derecha_
 \
 _Tu ficha se movera automaticamente._
 
