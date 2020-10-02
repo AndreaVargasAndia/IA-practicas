@@ -16,7 +16,7 @@ _**Ingresa la dificultad del juego**_ ⚙️ \
  Dificultad(MinMax depth): _(colocar 2 o 4)_
 
 _**Se imprimirá el tablero**_ \
-  0 1 2 3 4 5 6 7   ⬅️ Pos x
+  0 1 2 3 4 5 6 7   ⬅️ Pos x \
 0 - X - X - X - X 
 
 1 X - X - X - X - 
@@ -35,9 +35,9 @@ _**Se imprimirá el tablero**_ \
 ⬆️ \
 Pos y
 
-_**Colocaras tu jugada**_
+_Colocaras tu jugada_
 
-Humano <br/>
+**Humano** <br/>
 **Pos x**: _coloca la coordenada x de la ficha que desees mover_ \
 **Pos y**: _coloca la coordenada y de la ficha que desees mover_ \
 **Movimiento 0(↑←), 1(↑→)**: _coloca la direccion en la que moveras la ficha_ \
@@ -48,7 +48,7 @@ _Tu ficha se movera automaticamente._
 
 **Se actualizara el tablero durante cada turno.**
 
-_La cpu (IA-minmax) realizara su movimiento automaticamente._
+- _La cpu (IA-minmax) realizara su movimiento automaticamente._
 
 _De esta forma hasta que tengamos un ganador._
 
