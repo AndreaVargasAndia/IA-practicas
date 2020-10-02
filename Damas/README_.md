@@ -16,7 +16,7 @@ _**Ingresa la dificultad del juego**_ ⚙️ \
  Dificultad(MinMax depth): _(colocar 2 o 4)_
 
 _**Se imprimirá el tablero**_ \
-  0 1 2 3 4 5 6 7   ⬅️ Pos x \
+..0 1 2 3 4 5 6 7   ⬅️ Pos x \
 0 - X - X - X - X 
 
 1 X - X - X - X - 
@@ -48,7 +48,7 @@ _Tu ficha se movera automaticamente._
 
 **Se actualizara el tablero durante cada turno.**
 
-- _La cpu (IA-minmax) realizara su movimiento automaticamente._
+La cpu (IA-minmax) realizara su movimiento automaticamente.
 
 _De esta forma hasta que tengamos un ganador._
 
