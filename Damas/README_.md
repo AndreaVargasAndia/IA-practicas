@@ -37,7 +37,7 @@ Pos y
 
 _**Colocaras tu jugada**_
 
-Humano \ 
+Humano <br/>
 **Pos x**: _coloca la coordenada x de la ficha que desees mover_ \
 **Pos y**: _coloca la coordenada y de la ficha que desees mover_ \
 **Movimiento 0(↑←), 1(↑→)**: _coloca la direccion en la que moveras la ficha_ \
