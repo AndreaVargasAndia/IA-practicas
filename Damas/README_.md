@@ -38,21 +38,21 @@ Pos y
 _Colocaras tu jugada_  
 
 **Humano** <br/>
-**Pos x**: _coloca la coordenada x de la ficha que desees mover_ \
-**Pos y**: _coloca la coordenada y de la ficha que desees mover_ \
-**Movimiento 0(↑←), 1(↑→)**: _coloca la direccion en la que moveras la ficha_ \
-			     - _0 mover hacia la izquierda_
-			     - _1 mover hacia la derecha_
-\
-_Tu ficha se movera automaticamente._\
+**Pos x**: _coloca la coordenada x de la ficha que desees mover_ <br/>
+**Pos y**: _coloca la coordenada y de la ficha que desees mover_ <br/>
+**Movimiento 0(↑←), 1(↑→)**: _coloca la direccion en la que moveras la ficha_ <br/>
+- 0 mover hacia la izquierda  
+- 1 mover hacia la derecha 
+<br/><br/>
+_Tu ficha se movera automaticamente._<br/>
 
-**Se actualizara el tablero durante cada turno.**\
+**Se actualizara el tablero durante cada turno.** <br/>
 
-La cpu (IA-minmax) realizara su movimiento automaticamente. \
+La cpu (IA-minmax) realizara su movimiento automaticamente. <br/>
 
-_De esta forma hasta que tengamos un ganador._\
+_De esta forma hasta que tengamos un ganador._<br/>
 
-_ESTAS PREPARADO PARA VENCER A LA IA?_\
+_ESTAS PREPARADO PARA VENCER A LA IA?_<br/>
 
 ## Requisitos 🛠️
 
